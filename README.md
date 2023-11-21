@@ -1,6 +1,5 @@
 # Ex. No. 5 - SIMULATION-OF-DELTA-3D-PRINTER-MACHINE
 
-### DATE: 
 ## AIM:
 ### To simulate the construction of delta 3D printer and to get in-depth knowledge of mechatronics of delta 3D printer.
 
@@ -70,8 +69,6 @@ A motor that has a gear attached to it, often used to drive the printer's linear
 A display screen that allows the user to interact with the printer, typically used to select and control print settings.
 ![image](https://github.com/23004742/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/150319318/6d6b22a3-a18d-4746-9e78-95956273348c)
 
-### Name:Naramala Kumarteja
-### Register Number:23003525
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
